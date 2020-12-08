@@ -1,7 +1,7 @@
 # TP - Gestion de projet
 
 ## Situation :
-La Société spatial **Ariane Group** souhaiterait développer une application de jeux concours sur les réseaux sociaux. L'idée serait d ávoir un jeu qui permettent d'envoyer nos idées concernant la colonisation de Mars. Au terme du Concours. L'idée ayant reçue le plus de vote de la part de la communauté sera désignée comme la meilleure et la personne concernée recevra un Kit d'Astronomie d'une valeur de 2000€.
+La Société spatiale **Ariane Group** souhaiterait développer une application de jeu concours sur les réseaux sociaux. L'idée serait d'avoir un jeu qui permette aux utilisateurs d'envoyer leurs projets (idées, plans...) projets la colonisation de Mars. À la fin du concours, le projet ayant reçu le plus de vote de la part de la communauté sera désigné comme le meilleur et la personne concernée recevra un Kit d'Astronomie d'une valeur de 2000€.
 
 Pour ce projet, Ariane Groupe fait confiance en votre agence dont elle a entendue le plus grand bien. Votre agence est composée de :
 - 3 développeurs (1 lead dev, 1 confirmé, 1 stagiaire)
